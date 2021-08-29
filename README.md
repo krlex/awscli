@@ -3,5 +3,5 @@ This is script helps you for quick download and installation aws client ( latest
 
 # Direct download and install aws-cli
 ```
-bash <(https://raw.githubusercontent.com/krlex/awscli/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/krlex/awscli/main/install.sh)
 ```
